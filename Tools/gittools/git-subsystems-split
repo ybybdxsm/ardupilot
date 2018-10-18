@@ -22,6 +22,7 @@ Options:
     --copy
     Make all commits have exactly the same message as the HEAD commit.
 
+1111111111111
     --edit
     Edit the commit message as a template for commit-subsystems.
 EOF
